@@ -3,6 +3,46 @@
 # Governance-First ISMS  
 _Public overview_
 
+<style>
+  :root {
+    color-scheme: light;
+  }
+
+  body {
+    background-color: #ffffff;
+    color: #111111;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+                 sans-serif;
+    line-height: 1.6;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem 3rem 1.5rem;
+  }
+
+  a {
+    text-decoration: none;
+    border-bottom: 1px solid #ddd;
+  }
+
+  a:hover {
+    border-bottom-color: #999;
+  }
+
+  h1, h2, h3 {
+    font-weight: 600;
+    margin-top: 2rem;
+  }
+
+  code {
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
+                 "Liberation Mono", "Courier New", monospace;
+    font-size: 0.9em;
+    background: #f5f5f5;
+    padding: 0.1em 0.25em;
+    border-radius: 3px;
+  }
+</style>
+
 Det här är en översikt av den publika delen av Governance-First ISMS – ett arbetssätt som utgår från att ett fungerande ISMS börjar med **styrning**, inte verktyg.
 
 Syftet är att ge en tydlig och lättanvänd introduktion till principerna bakom ett modernt, styrningsorienterat arbetssätt enligt ISO 27000-serien.
