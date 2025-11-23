@@ -4,12 +4,13 @@
 _Public overview_
 
 **Innehåll:**  
-[Principer](../principles/governance-first.md) •  
-[Intro till ISO 27000](../intro27000.md) •  
-[Ledningsperspektiv](../valueforleaders.md) •  
-[Roadmap](../roadmap.md) •  
-[Contributing](../contributing) •  
-[License](../license.md)
+[Principer](/principles/governance-first.md) •  
+[Intro till ISO 27000](/intro27000.md) •  
+[Ledningsperspektiv](/valueforleaders.md) •  
+[Roadmap](/roadmap.md) •  
+[Contributing](/contributing) •  
+[License](/license.md)
+
 
 <style>
   :root {
