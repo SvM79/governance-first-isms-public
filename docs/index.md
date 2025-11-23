@@ -1,7 +1,15 @@
-[![License](https://img.shields.io/badge/License-Custom_NC--ND-informational.svg)](license.md)
+[![License](https://img.shields.io/badge/License-Custom_NC--ND-informational.svg)](../license.md)
 
 # Governance-First ISMS  
 _Public overview_
+
+**Innehåll:**  
+[Principer](../principles/governance-first.md) •  
+[Intro till ISO 27000](../intro27000.md) •  
+[Ledningsperspektiv](../valueforleaders.md) •  
+[Roadmap](../roadmap.md) •  
+[Contributing](../contributing) •  
+[License](../license.md)
 
 <style>
   :root {
@@ -43,77 +51,82 @@ _Public overview_
   }
 </style>
 
-Det här är en översikt av den publika delen av Governance-First ISMS – ett arbetssätt som utgår från att ett fungerande ISMS börjar med **styrning**, inte verktyg.
+---
 
-Syftet är att ge en tydlig och lättanvänd introduktion till principerna bakom ett modernt, styrningsorienterat arbetssätt enligt ISO 27000-serien.
+Det här är en introduktion till tankesättet bakom **Governance-First ISMS** – en modell
+för organisationer som vill arbeta med informationssäkerhet på ett sätt som är
+tydligt, ledningsnära och i linje med hur ISO 27000-serien faktiskt är tänkt att användas.
+
+Det som presenteras här är de öppna delarna: principer, resonemang, vägledning
+och struktur. Arbetet med mer omfattande material – exempel, modeller och
+stödjande artefakter – pågår löpande och publiceras i takt med att det är moget.
+
+Syftet är att erbjuda en stabil grund, inte en färdig verktygslåda.
 
 ---
 
 ## Varför governance-first?
 
-I många organisationer börjar informationssäkerheten i Annex A eller i ett nyinfört verktyg. Det leder ofta till:
+Många börjar med verktyg, kontroller eller detaljer, men hoppar över det som
+egentligen skapar förutsättningarna för ett fungerande ISMS: styrningen.
 
-- ad-hoc kontroller,
-- växande dokumentation utan riktning,
-- svag förankring i verksamheten,
-- svårt att följa upp om något faktiskt fungerar.
+När kapitel 4–10 i ISO 27001 är förankrat blir allt annat lättare:
 
-Här börjar vi i stället med **kapitel 4–10** i ISO 27001 – grunden som beskriver hur ett ISMS ska byggas och styras.
+- prioriteringar,
+- roller och ansvar,
+- riskarbete,
+- uppföljning,
+- kontrollbibliotek,
+- och eventuellt val av GRC-verktyg.
+
+Det är detta skiftet som governance-first handlar om.
 
 ---
 
 ## Vad du hittar här
 
-Den publika delen av projektet består av tre nivåer:
+Den publika delen består av tre områden:
 
 ### 1. Principer  
-Kärnidéerna bakom governance-first:
-
-- varför man måste börja i kapitel 4–10  
-- hur standarderna i 27000-serien hänger ihop  
-- vad ledningen behöver för att äga frågan  
-
-Se:  
-`/principles/governance-first.md`
+De grundläggande idéerna som gör ett ISMS styrbart och verksamhetsnära.  
+Se `principles/governance-first.md`.
 
 ---
 
 ### 2. Introduktioner  
-Överskådliga förklaringar som hjälper organisationer att förstå helheten innan de går in i detaljer:
+Förklaringar och sammanhang för att förstå helheten innan man går in i detaljer:
 
-- `intro27000.md` – varför grunden kommer före Annex A  
-- `valueforleaders.md` – vad ledningen behöver för att styra  
+- `intro27000.md` – varför kapitel 4–10 är startpunkten  
+- `valueforleaders.md` – hur ledningen kan äga frågan  
 
 ---
 
-### 3. Riktning och ramverk  
-Här finns det som säger vart projektet är på väg – inte hur det implementeras:
+### 3. Riktning och utveckling  
+Filer som beskriver den övergripande inriktningen:
 
-- `roadmap.md` – högnivåplan för vad som kommer publikt  
-- `contributing` – riktlinjer för förbättringsförslag (text, inte kod)  
-- `license.md` – Creative Commons-baserat skydd för allt innehåll  
+- `roadmap.md` – hur innehållet planeras att växa över tid  
+- `contributing` – hur man kan bidra med förbättringar  
+- `license.md` – licensvillkor
 
-Det interna arbetet med datamodell, mappningar, GRC-struktur och implementationsstöd sker privat och ingår inte i denna publika version.
+Det här är en tidig version – innehållet kommer att utvecklas stegvis och
+fyllas på med fler texter och exempel.
 
 ---
 
 ## Status
 
-Det här är en **första iteration** av den publika modellen.  
-När principerna är helt stabila kommer innehållet växa med fler:
+Den här sidan representerar en första publik version av materialet.
+Nya delar läggs till löpande, med fokus på:
 
-- konceptuella exempel  
-- stödmaterial för ledning  
-- förklarande modeller  
-
+- förklarande exempel,
+- modeller,
+- ledningsstöd,
+- och praktiska resonemang som hjälper organisationer att komma igång.
 
 ---
 
 ## Kontakt och bidrag
 
-Förslag på förbättringar tas emot via issues i repot.  
-Se `contributing` för riktlinjer.
+Synpunkter och förslag tas gärna emot via issues.  
+Se `contributing` för mer information.
 
----
-
-_Tack för att du tittar förbi. Om du arbetar i en organisation där styrning, ansvar och struktur behöver komma först – då är du på rätt plats._
