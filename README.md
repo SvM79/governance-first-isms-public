@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/badge/License-Custom_NC--ND-informational.svg)](license.md)
+
 # Governance-First ISMS (Public Overview)
 
 Det här projektet beskriver en enkel men avgörande princip:
