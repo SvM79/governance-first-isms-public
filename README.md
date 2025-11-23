@@ -1,46 +1,88 @@
 [![License](https://img.shields.io/badge/License-Custom_NC--ND-informational.svg)](license.md)
 
-# Governance-First ISMS (Public Overview)
+# Governance-First ISMS  
+_Public overview_
 
-Det här projektet beskriver en enkel men avgörande princip:
-ett fungerande ISMS börjar med styrning, inte med verktyg.
+Det här repositoriet innehåller de öppna delarna av Governance-First ISMS – ett arbetssätt
+för organisationer som vill bygga ett fungerande informationssäkerhetsarbete med fokus på
+styrning, tydlighet och ledningsnära beslut.
 
-Många organisationer hoppar direkt till att köpa ett GRC-system eller
-börjar arbeta i Annex A. Resultatet blir ofta ett lapptäcke av dokument,
-aktiviteter och excelark som saknar tydlig riktning.
+Syftet är att samla principer och resonemang som gör det enklare att förstå hur ISO
+27000-serien faktiskt är tänkt att användas, och ge en stabil grund för organisationer
+som vill börja i rätt ände.
 
-Den här publika repositorien är inte en komplett modell.
-Det är en översikt av de principer som ligger till grund för ett
-styrningsorienterat arbetssätt enligt ISO 27000-serien.
+Det här är inte en verktygslåda eller komplett implementation – utan en tydlig och
+användbar struktur som kommer att byggas ut stegvis.
 
-## Varför detta perspektiv?
+---
 
-Fokus ligger på:
-- att etablera styrsignaler i kapitel 4–10,
-- att använda stödstandarderna i 27000-familjen på rätt sätt,
-- att få ledningens ägarskap innan riskmodeller och kontroller byggs,
-- att undvika hemmabyggen och ad-hoc-strukturer.
+## Varför governance-first?
 
-Detta utgör fundamentet för ett ISMS som är begripligt, konsekvent och
-långsiktigt hållbart.
+Det vanligaste felet i branschen är att börja med:
 
-## Vad innehåller det här repot?
+- kontroller,
+- verktyg,
+- detaljerade åtgärder,
+- eller Annex A.
 
-- **principles/** – kärnprinciperna bakom ett governance-first ISMS  
-- **intro-27000.md** – varför kapitel 4–10 är startpunkten, inte Annex A  
-- **value-for-leaders.md** – vad ledningen måste veta för att äga frågan  
+Det leder ofta till fragmenterade initiativ som saknar helhet och inte ger ledningen
+det underlag som behövs för att styra.
 
-Den detaljerade metodiken, datamodellen och implementationsstödet ligger
-i ett separat privat repo och publiceras först när det är moget,
-testat på riktiga uppdrag och redo att frigöras i kontrollerade steg.
+Ett governance-first perspektiv innebär att man börjar med:
 
-## Målgrupp
+- kapitel 4–10 i ISO 27001,  
+- tydlig ansvarsfördelning,  
+- styrsignaler,  
+- riskperspektiv,  
+- och uppföljning.  
 
-- ledare som vill ha ett begripligt och styrbart säkerhetsarbete  
-- organisationer som behöver en tydlig grund innan verktyg väljs  
-- konsulter som vill förstå hur ett äkta ISO-baserat ISMS byggs  
+När detta är på plats blir allt annat enklare och mer förutsägbart.
 
-## Status
+---
 
-Detta är en översikt – inte produkten.  
-Arbetet med den fullständiga plattformen fortsätter i bakgrunden.
+## Innehåll i repot
+
+Den publika delen består av:
+
+### **1. Principer**
+Kärnidéerna som beskriver vad ett styrningsorienterat ISMS bygger på.  
+Se `principles/governance-first.md`.
+
+### **2. Introduktioner**
+Övergripande förklaringar och resonemang som hjälper organisationer att komma igång:
+- `intro27000.md` – varför kapitel 4–10 är startpunkten  
+- `valueforleaders.md` – vad ledningen behöver för att kunna äga frågan  
+
+### **3. Riktning och utveckling**
+Dokument som beskriver inriktningen för det publika materialet:
+- `roadmap.md`  
+- `contributing`  
+- `license.md`  
+
+Det här är en första version. Nya texter och exempel kommer att läggas till löpande i takt
+med att materialet mognar.
+
+---
+
+## Relation till övrigt arbete
+
+Det här repositoriet täcker de delar som lämpar sig för öppen publicering: principer,
+sammanhang och struktur. Mer omfattande modeller, exempel och praktiska artefakter
+utvecklas i takt med arbetet och kommer att publiceras när de är mogna.
+
+Målet är långsiktig tydlighet – inte att lansera ett komplett ramverk i ett steg.
+
+---
+
+## Hur du kan bidra
+
+Förslag på förbättringar eller förtydliganden tas gärna emot via issues.  
+Se `contributing` för riktlinjer.
+
+---
+
+## Licens
+
+Det publika innehållet är licensierat enligt en anpassad NC–ND-licens.  
+Se `license.md` för detaljer.
+
